@@ -20,3 +20,5 @@ This repository serves as a basic framework for analyzing plant stress and photo
 ## Future Scope
 - Integration with genomic datasets
 - Advanced modeling of stress responses
+## Research Context
+This repository is part of ongoing research work focused on understanding plant stress responses and improving drought resilience in crops.
